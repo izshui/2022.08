@@ -14,5 +14,3 @@
   - 邮箱
     - **[jhonguo[at]126.com](mailto:jhonguo@126.com)**
     - **[hbxgtc[at]gmail.com](mailto:hbxgtc@gmail.com)**
-
-- https://izshui.github.io/2020/07/07/%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
